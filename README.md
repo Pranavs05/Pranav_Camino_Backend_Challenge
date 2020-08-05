@@ -29,4 +29,4 @@ Note :
 # Assumptions:
 
 1. Each different loan application has a unique id , which is used to identify the application.
-2. Duplicate entries are checked by id , and updates are made to the entry for that id
+2. Duplicate entries are checked by id , and updates are made to the entry for that id , the algorithm checks for same id and updates accordingly.
