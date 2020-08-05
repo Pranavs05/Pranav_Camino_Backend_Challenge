@@ -15,7 +15,7 @@ Note: Follow the exact format of the links above to test on postman.
 # Steps to Test on Postman :
 
 * Change URL Request type to Post enter the url no. 1 from above .
-* Switch to body tab and enter json file as value with **key name 'file' which is the json file , this is essntial for the post request**.
+* Switch to body tab and enter json file as value with **key name 'file' which is the json file , this is essential for the post request**.
 * Send api request and wait for response . 
 * After you recive Status : 200 ok open a new tab for a new request
 * Switch to get request and enter url 2 from above.
