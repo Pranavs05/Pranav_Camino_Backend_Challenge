@@ -23,10 +23,10 @@ Note: Follow the exact format of the links above to test on postman.
 
 
 Note : 
-* Test request for non existent id by replacing /status?id=897079 with  /status?id=8970794567 to see message 
+* Test request for non existent id by replacing /status?id=897079 with  /status?id=4567 to see message 
 * Test  post request for duplicate entry with minor details like number/address updated to see message.
 
 # Assumptions:
 
 1. Each different loan application has a unique id , which is used to identify the application.
-2. Duplicate entries are checked by id , and updates are made to the entry for that id
+2. Duplicate entries are checked by id , and updates are made to the entry for that id , the algorithm checks for same id and updates accordingly.
