@@ -25,7 +25,7 @@ Note: Follow the exact format of the links above to test on postman.
 Note : 
 * Test request for non existent id by replacing /status?id=897079 with  /status?id=4567 to see message.
 * Test  post request for duplicate entry with changes in minor details in the .json file like number/address then see update message.
-* Refer to screenshots for the above tests.
+* Refer to test_screenshots for all the above tests.
 
 # Assumptions:
 
